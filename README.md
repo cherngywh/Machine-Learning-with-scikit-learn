@@ -1,7 +1,7 @@
 # Machine-Learning-with-scikit-learn
 
 ## Introduction
-The purpose of this repo is to create a libiary of Machinie Learning algorithms which anyone can easily apply these Jupter Notebooks to their own dataset.
+The purpose of this repo is to create a libiary of Machinie Learning algorithms with scikit-learn which anyone can easily apply these Jupter Notebooks to their own dataset.
 
 ## Data Preparation for Machine Learning
 - [Dummy Encoding](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Data%20Preparation/Dummy%20Encoding.ipynb)
