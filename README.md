@@ -22,6 +22,8 @@ The purpose of this repo is to create a libiary of Machinie Learning algorithms 
 - [Decision Tree](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Decision%20Tree.ipynb)
 - [Random Forest](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Random%20Forest.ipynb)
 - [Complete Example of Decision Tree & Random Forest](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Random%20Forest.ipynb)
+- [Naive Bayes](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Naive%20Bayes.ipynb)
 - [Support Vector Machine(SVM)](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Support%20Vector%20Machine.ipynb)
 - [Grid Search](https://github.com/cherngywh/Machine-Learning-with-scikit-learn/blob/master/Supervised%20Learning%20/Grid%20Search.ipynb)
+
 
