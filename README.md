@@ -1,4 +1,4 @@
-# Machine-Learning-with-scikit-learn
+# Machine Learning with scikit learn
 
 ## Introduction
 The purpose of this repo is to create a libiary of Machinie Learning algorithms with scikit-learn which anyone can easily apply these Jupter Notebooks to their own dataset.
